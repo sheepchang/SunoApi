@@ -1,3 +1,5 @@
+<div align="center">
+
 [简体中文](README_ZH.md) | [繁體中文](README_TC.md) | [English](README.md) | [한국어](README_KR.md) | [日本語](README_JP.md)
 
 
@@ -6,6 +8,8 @@
 
 # Поздравляю с избранием проекта open source в уикли на этой неделе
 ### [![ruanyf](https://avatars.githubusercontent.com/u/905434?s=20) ruanyf added the weekly label 12 hours ago](https://github.com/ruanyf/weekly/issues/4263)
+
+</div>
 
 
 # Клиент Suno API неофициально
@@ -103,7 +107,7 @@ services:
 - Main file path введен: main py
 - нажми деплой!
 
-### Zeabur Локальное развертывание
+#### Zeabur Локальное развертывание
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/5BLAEZ)
 
@@ -148,6 +152,13 @@ services:
 - Github Issues： https://github.com/SunoApi/SunoApi/issues
 
 <img src="https://sunoapi.net/images/wechat.jpg" width="382px" height="511px" />
+
+
+### Участие
+
+- Индивидуальные силы всегда ограничены, и любые вклады приветствуются, включая, но не ограничиваются кодами вкладов, оптимизированными документами, представленными Issue и PR, поскольку время ограниченное для того, чтобы не принимать микроверы или микроблоки для создания багов, вопросы или рекомендации оптимизации должны быть представлены Issue и PR!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SunoApi/SunoApi&type=Timeline)](https://star-history.com/#SunoApi/SunoApi&Timeline)
 
 
 ### Ссылки

@@ -1,3 +1,5 @@
+<div align="center">
+
 [简体中文](README_ZH.md) | [繁體中文](README_TC.md) | [Русский язык](README_RU.md) | [English](README.md) | [한국어](README_KR.md)
 
 
@@ -6,6 +8,8 @@
 
 # 今週のweeklyへの本開源プロジェクトの入選を祝う
 ### [![ruanyf](https://avatars.githubusercontent.com/u/905434?s=20) ruanyf added the weekly label 12 hours ago](https://github.com/ruanyf/weekly/issues/4263)
+
+</div>
 
 
 # Suno API 非公式 Suno AIクライアントです
@@ -104,7 +108,7 @@ services:
 - Main file path入力：main.py
 - Deployをクリック！
 
-### Zeabur ローカルワンクリック配備です
+#### Zeabur ローカルワンクリック配備です
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/5BLAEZ)
 
@@ -149,6 +153,13 @@ services:
 - Github Issues： https://github.com/SunoApi/SunoApi/issues
 
 <img src="https://sunoapi.net/images/wechat.jpg" width="382px" height="511px" />
+
+
+### 参加する
+
+- 個人の力は常に限られており、どのような形の貢献も歓迎されています。貢献コード、文書の最適化、IssueとPRの提出などが含まれていますが、これに限られていないので、微信や微信グループで開発者にBugを提出することは受け入れられません。問題や最適化の提案があれば、IssueとPRを提出してください。
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SunoApi/SunoApi&type=Timeline)](https://star-history.com/#SunoApi/SunoApi&Timeline)
 
 
 ### リファレンス

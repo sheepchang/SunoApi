@@ -1,3 +1,5 @@
+<div align="center">
+
 [简体中文](README_ZH.md) | [繁體中文](README_TC.md) | [Русский язык](README_RU.md) | [한국어](README_KR.md) | [日本語](README_JP.md)
 
 
@@ -6,6 +8,8 @@
 
 # Congratulations on this open source project's being selected for this week's weekly
 ### [![ruanyf](https://avatars.githubusercontent.com/u/905434?s=20) ruanyf added the weekly label 12 hours ago](https://github.com/ruanyf/weekly/issues/4263)
+
+</div>
 
 
 # Suno API is an unofficial Suno AI client
@@ -103,7 +107,7 @@ services:
 - Main file path input: main.py
 - Click Deploy!
 
-### Zeabur one-click deployment
+#### Zeabur one-click deployment
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/5BLAEZ)
 
@@ -148,6 +152,14 @@ services:
 - Github Issues： https://github.com/SunoApi/SunoApi/issues
 
 <img src="https://sunoapi.net/images/wechat.jpg" width="382px" height="511px" />
+
+
+### Participate
+
+- My personal strength is always limited, any form of contribution is welcome, including but not limited to contributing code, optimizing documents, submitting issues and PR. Due to limited time, we do not accept to submit bugs to developers in wechat or wechat group, please submit issues and PR if you have problems or optimization suggestions!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SunoApi/SunoApi&type=Timeline)](https://star-history.com/#SunoApi/SunoApi&Timeline)
+
 
 ### Reference
 

@@ -1,3 +1,5 @@
+<div align="center">
+
 [简体中文](README_ZH.md) | [Русский язык](README_RU.md) | [English](README.md) | [한국어](README_KR.md) | [日本語](README_JP.md)
 
 
@@ -6,6 +8,8 @@
 
 # 祝賀本開源項目入選本周weekly
 ### [![ruanyf](https://avatars.githubusercontent.com/u/905434?s=20) ruanyf added the weekly label 12 hours ago](https://github.com/ruanyf/weekly/issues/4263)
+
+</div>
 
 
 # Suno API 非官方 Suno AI 用戶端
@@ -103,7 +107,7 @@ services:
 - Main file path輸入：main.py
 - 點擊Deploy！
 
-### Zeabur 一鍵部署
+#### Zeabur 一鍵部署
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/5BLAEZ)
 
@@ -147,6 +151,13 @@ services:
 - Github Issues： https://github.com/SunoApi/SunoApi/issues
 
 <img src="https://sunoapi.net/images/wechat.jpg" width="382px" height="511px" />
+
+
+### 參與
+
+- 個人的力量始終有限，任何形式的貢獻都是歡迎的，包括但不限於貢獻程式碼，優化檔案，提交Issue和PR，由於時間有限不接受在微信或者微信群給開發者提Bug，有問題或者優化建議請提交Issue和PR！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SunoApi/SunoApi&type=Timeline)](https://star-history.com/#SunoApi/SunoApi&Timeline)
 
 
 ### 參攷
